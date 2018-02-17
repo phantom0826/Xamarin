@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.HelloXamlPagexaml">
+    <ContentPage.Content>
+        <Label Text="Eulover App Testing~!"
+               VerticalOptions="Center"
+               HorizontalTextAlignment="Center"
+               Rotation="15"
+               IsVisible="True"
+               FontSize="Large"
+               FontAttributes="Bold"
+               TextColor="Blue"/>
+    </ContentPage.Content>
+</ContentPage>

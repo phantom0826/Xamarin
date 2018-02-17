@@ -1,0 +1,11 @@
+D:\GitProject\Xamarin\Project\Eulover_BetaService\Eulover_BetaService\Eulover_BetaService\bin\Debug\netstandard2.0\Eulover_BetaService.deps.json
+D:\GitProject\Xamarin\Project\Eulover_BetaService\Eulover_BetaService\Eulover_BetaService\bin\Debug\netstandard2.0\Eulover_BetaService.dll
+D:\GitProject\Xamarin\Project\Eulover_BetaService\Eulover_BetaService\Eulover_BetaService\bin\Debug\netstandard2.0\Eulover_BetaService.pdb
+D:\GitProject\Xamarin\Project\Eulover_BetaService\Eulover_BetaService\Eulover_BetaService\obj\Debug\netstandard2.0\Eulover_BetaService.csprojResolveAssemblyReference.cache
+D:\GitProject\Xamarin\Project\Eulover_BetaService\Eulover_BetaService\Eulover_BetaService\obj\Debug\netstandard2.0\Eulover_BetaService.csproj.CoreCompileInputs.cache
+D:\GitProject\Xamarin\Project\Eulover_BetaService\Eulover_BetaService\Eulover_BetaService\obj\Debug\netstandard2.0\Eulover_BetaService.App.xaml.g.cs
+D:\GitProject\Xamarin\Project\Eulover_BetaService\Eulover_BetaService\Eulover_BetaService\obj\Debug\netstandard2.0\Eulover_BetaService.MainPage.xaml.g.cs
+D:\GitProject\Xamarin\Project\Eulover_BetaService\Eulover_BetaService\Eulover_BetaService\obj\Debug\netstandard2.0\Eulover_BetaService.AssemblyInfoInputs.cache
+D:\GitProject\Xamarin\Project\Eulover_BetaService\Eulover_BetaService\Eulover_BetaService\obj\Debug\netstandard2.0\Eulover_BetaService.AssemblyInfo.cs
+D:\GitProject\Xamarin\Project\Eulover_BetaService\Eulover_BetaService\Eulover_BetaService\obj\Debug\netstandard2.0\Eulover_BetaService.dll
+D:\GitProject\Xamarin\Project\Eulover_BetaService\Eulover_BetaService\Eulover_BetaService\obj\Debug\netstandard2.0\Eulover_BetaService.pdb

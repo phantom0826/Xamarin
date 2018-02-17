@@ -1,0 +1,11 @@
+D:\GitProject\Xamarin\TestProject\Xamarin_Forms_Test\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojResolveAssemblyReference.cache
+D:\GitProject\Xamarin\TestProject\Xamarin_Forms_Test\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\GitProject\Xamarin\TestProject\Xamarin_Forms_Test\App1\App1\App1\obj\Debug\netstandard2.0\App1.App.xaml.g.cs
+D:\GitProject\Xamarin\TestProject\Xamarin_Forms_Test\App1\App1\App1\obj\Debug\netstandard2.0\App1.MainPage.xaml.g.cs
+D:\GitProject\Xamarin\TestProject\Xamarin_Forms_Test\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\GitProject\Xamarin\TestProject\Xamarin_Forms_Test\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+D:\GitProject\Xamarin\TestProject\Xamarin_Forms_Test\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+D:\GitProject\Xamarin\TestProject\Xamarin_Forms_Test\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+D:\GitProject\Xamarin\TestProject\Xamarin_Forms_Test\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+D:\GitProject\Xamarin\TestProject\Xamarin_Forms_Test\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\GitProject\Xamarin\TestProject\Xamarin_Forms_Test\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb

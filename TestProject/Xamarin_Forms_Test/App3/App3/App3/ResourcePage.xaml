@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.ResourcePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="do this"
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"
+                    BorderWidth="3"
+                    TextColor="Red"
+                    FontSize="Large"/>
+            <Button Text="do that"
+                    HorizontalOptions="CenterAndExpand"
+                    VerticalOptions="CenterAndExpand"
+                    BorderWidth="5"
+                    TextColor="Red"
+                    FontSize="Large"/>
+            <Button Text="do this other thing"
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"
+                    BorderWidth="3"
+                    Rotation="-15"
+                    TextColor="Red"
+                    FontSize="Large"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
